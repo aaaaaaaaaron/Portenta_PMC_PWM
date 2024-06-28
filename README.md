@@ -2,6 +2,8 @@
 
 This Library is a fork from [khoih-prog's Portenta_H7_PWM library](https://github.com/khoih-prog/Portenta_H7_PWM). All I did was update some pin definitions to make it work on my Portenta Machine Control. View that repo for much more helpful information! I forked the original repo rather than submitting a PR because it is not being mantained anymore.
 
+I would say be careful when using this because it is not tested very well. And be mindful of managing your PWM instances.
+
 I may submit it to the library manager sometime.
 
 
