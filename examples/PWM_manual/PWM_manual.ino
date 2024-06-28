@@ -43,7 +43,7 @@
 // pinD4 and pinD5, using same TIM3, can't be used at the same time
 // pinD3 and pinD6 are using HRTIM, can't be used at the same time and the minimum freq must be ~770Hz
 
-uint32_t myPin  = pinD3;
+uint32_t myPin  = pinD2;
 
 mbed::PwmOut* pwm   = nullptr;
 
